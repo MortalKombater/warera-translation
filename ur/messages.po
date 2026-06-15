@@ -32,7 +32,6 @@ msgstr "* سامان ملانے کی اسکیمیں - "
 #: src/components/_common/GameRules.tsx:117
 msgid " - Low-wage labor (lower than 0.8x and above 1.2x the normal salary)"
 msgstr "کم-اجرت کی مزدوری (عام تنخواہ سے 0.7 گنا کم یا 1.3 گنا زیادہ) - "
-"
 
 #. placeholder {0}: user.data.mute.reason
 #: src/components/_user/user/UserHeader.tsx:422
@@ -68,11 +67,11 @@ msgstr "ترقیاتی آمدنی میں 50٪ کمی:<0>{0}</0>۔  - "
 #: src/components/_political/alliance/AllianceMemberRow.tsx:71
 #: src/components/_political/country/CountryDiplomacyGrid.tsx:236
 msgid "(average member development)"
-msgstr ""
+msgstr "(اوسط رکن کی ترقی)"
 
 #: src/components/_political/alliance/AllianceMemberRow.tsx:66
 msgid "(member average development)"
-msgstr ""
+msgstr "(رکن کی اوسط ترقی)"
 
 #: src/components/_political/country/CountryDiplomacyGrid.tsx:226
 msgid "(own development)"
@@ -81,17 +80,17 @@ msgstr ""
 #. placeholder {0}: myCountry?.name
 #: src/components/_military/battle/EndedBattlesList.tsx:81
 msgid "{0} & allies"
-msgstr "اور اتحادی {0}"
+msgstr "{0} اور اتحادی"
 
 #. placeholder {0}: lawConfig.minActiveCitizen
 #: src/components/_political/law/Law.tsx:139
 msgid "{0} active citizens required"
-msgstr "{0} فعال شہریوں کی ضرورت"   
+msgstr "{0} فعال شہریوں کی ضرورت" 
 
 #. placeholder {0}: data.userId && ( <UserUsername userId={data.userId} withAvatar withFlag /> )
 #: src/components/_user/notification/notification.frontConfig.tsx:487
 msgid "{0} bought your item offer"
-msgstr "نے آپ کی شے کی بولی خرید لی ہے {0}"
+msgstr "{0} نے آپ کی شے کی بولی خرید لی"
 
 #. placeholder {0}: Math.floor(cooldownHours / 24)
 #: src/components/_political/partyMotion/PartyMotionTypeSelect.tsx:144
@@ -108,7 +107,7 @@ msgstr "{0} مفت"
 #: src/components/_political/law/Law.tsx:130
 #: src/components/_political/partyMotion/PartyMotion.tsx:113
 msgid "{0} hours"
-msgstr "{0} گھنٹے"
+msgstr "گھنٹے {0}"
 
 #. placeholder {0}: data.outbidByMuName
 #. placeholder {1}: data.newPerK
@@ -150,24 +149,24 @@ msgstr "آپ کے ملازموں کی مزدوری میں سے {0}% محصولِ
 #. placeholder {0}: gameConfig.company.destructionValuePercent
 #: src/components/_economy/company/CompanyDropdown.tsx:321
 msgid "{0}% of invested"
-msgstr "{0}٪ سرمایہ کا"
+msgstr "{0} سرمایہ کاری کا"
 
 #: src/components/_user/mission/MissionsList.tsx:162
 msgid "{completedCount}/{totalCount} completed"
-msgstr "مکمل {completedCount}/{totalCount}"
+msgstr "{completedCount}/{totalCount} مکمل" 
 
 #: src/components/_military/tournament/TournamentRegisteredTag.tsx:43
 msgid "{registeredCount} {entityLabel} registered"
-msgstr "درج ہوئے {registeredCount} {entityLabel}"
+msgstr "{registeredCount} {entityLabel} درج ہوئے" 
 
 #: src/components/_military/battle/BattleTimeline.tsx:79
 msgid "{roundsToWin} Rounds to win "
-msgstr "{roundsToWin} جیتنے کو چالیں"
+msgstr "جیتنے کو چالیں {roundsToWin}"
 
 #. placeholder {0}: staticGameConfig.battle.roundsToWin
 #: src/components/_military/battle/RoundScore.tsx:50
 msgid "{score}/{0} Rounds"
-msgstr "{score}/{0} چالیں"
+msgstr "چالیں {score}/{0}""
 
 #: src/components/_common/GameRules.tsx:153
 msgid "* A gear merging scheme consists of buying items with very low durability at a relatively high price, merging them, and then reselling the result at a low price."
@@ -202,11 +201,11 @@ msgstr ""
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1863
 msgid "<0/> bought your {assetLabel} as a gift for <1/>!"
-msgstr "!<0/> نے آپ کا {assetLabel} <1/> کے لیے بطور تحفہ خریدا"
+msgstr "<0/> نے آپ کا {assetLabel} <1/> کے لیے بطور تحفہ خریدا!" 
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1870
 msgid "<0/> bought your {assetLabel}!"
-msgstr "<نے آپ کا خریدا </0 {assetLabel}"
+msgstr "<0/> نے آپ کا {assetlabel} خریدا"
 
 #. placeholder {0}: data.bannerTitle ? ` "${data.bannerTitle}"` : ''
 #: src/components/_user/notification/notification.frontConfig.tsx:1509
